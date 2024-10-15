@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -16,3 +17,6 @@ git push origin main           # Push to remote (e.g., GitHub)
 
 
 `
+=======
+# React-Context-API
+>>>>>>> 08e4d9639f608e096bcb583ce5fa0aa5c820afe2
